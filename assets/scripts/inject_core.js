@@ -166,7 +166,11 @@
                 case "nicochannel.jp":
                 case "gs-ch.com":
                 case "qlover.jp":
-                case "pizzaradio.jp": {
+                case "pizzaradio.jp": 
+                case "rnqq.jp":
+                case "canan8181.com":
+                case "hololive-fc.com":
+                case "tokinosora-fc.com" {                    {
                     matchurl(this, "https://hls-auth.cloud.stream.co.jp/key");
                     break;
                 }
