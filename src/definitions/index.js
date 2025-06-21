@@ -22,6 +22,10 @@ export const supportedSites = [
     "pizzaradio.jp",
     "gs-ch.com",
     "qlover.jp",
+    "rnqq.jp",
+    "canan8181.com",
+    "hololive-fc.com",
+    "tokinosora-fc.com"
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
@@ -36,6 +40,10 @@ export const needKeySites = [
     "pizzaradio.jp",
     "gs-ch.com",
     "qlover.jp",
+    "rnqq.jp",
+    "canan8181.com",
+    "hololive-fc.com",
+    "tokinosora-fc.com"
 ];
 export const siteAdditionalHeaders = {
     "www.openrec.tv": {
