@@ -26,6 +26,7 @@ export const supportedSites = [
     "canan8181.com",
     "hololive-fc.com",
     "tokinosora-fc.com",
+    "uise-official.com",
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
@@ -44,6 +45,7 @@ export const needKeySites = [
     "canan8181.com",
     "hololive-fc.com",
     "tokinosora-fc.com",
+    "uise-official.com",
 ];
 export const siteAdditionalHeaders = {
     "www.openrec.tv": {
@@ -72,6 +74,7 @@ export const minyamiVersionRequirementMap = {
     "canan8181.com": "4.4.13",
     "hololive-fc.com": "4.4.13",
     "tokinosora-fc.com": "4.4.13",
+    "uise-official.com": "4.4.13",
 };
 export const statusFlags = {
     supported: 0b1,
