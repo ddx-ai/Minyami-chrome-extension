@@ -172,7 +172,7 @@
                 case "hololive-fc.com":
                 case "tokinosora-fc.com":
                 case "uise-official.com":
-                case "rizuna-official.com": {
+                case "rizuna-official.com":
                 case "kemomimirefle.net": {
                     matchurl(this, "https://hls-auth.cloud.stream.co.jp/key");
                     break;
