@@ -28,6 +28,7 @@ export const supportedSites = [
     "tokinosora-fc.com",
     "uise-official.com",
     "rizuna-official.com",
+    "kemomimirefle.net",
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
@@ -48,6 +49,7 @@ export const needKeySites = [
     "tokinosora-fc.com",
     "uise-official.com",
     "rizuna-official.com",
+    "kemomimirefle.net",
 ];
 export const siteAdditionalHeaders = {
     "www.openrec.tv": {
@@ -78,6 +80,7 @@ export const minyamiVersionRequirementMap = {
     "tokinosora-fc.com": "4.4.13",
     "uise-official.com": "4.4.13",
     "rizuna-official.com": "4.4.13",
+    "kemomimirefle.net": "4.4.13",
 };
 export const statusFlags = {
     supported: 0b1,
