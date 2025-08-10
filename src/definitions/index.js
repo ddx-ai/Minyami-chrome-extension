@@ -29,6 +29,7 @@ export const supportedSites = [
     "uise-official.com",
     "rizuna-official.com",
     "kemomimirefle.net",
+    "yamingfc.net",
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
@@ -50,6 +51,7 @@ export const needKeySites = [
     "uise-official.com",
     "rizuna-official.com",
     "kemomimirefle.net",
+    "yamingfc.net"
 ];
 export const siteAdditionalHeaders = {
     "www.openrec.tv": {
@@ -81,6 +83,7 @@ export const minyamiVersionRequirementMap = {
     "uise-official.com": "4.4.13",
     "rizuna-official.com": "4.4.13",
     "kemomimirefle.net": "4.4.13",
+    "yamingfc.net": "4.4.13",
 };
 export const statusFlags = {
     supported: 0b1,
