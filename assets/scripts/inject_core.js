@@ -174,7 +174,8 @@
                 case "uise-official.com":
                 case "rizuna-official.com":
                 case "kemomimirefle.net":
-                case "yamingfc.net": {
+                case "yamingfc.net":
+                case "tenshi-nano.com": {
                     matchurl(this, "https://hls-auth.cloud.stream.co.jp/key");
                     break;
                 }
