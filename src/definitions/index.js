@@ -30,7 +30,8 @@ export const supportedSites = [
     "rizuna-official.com",
     "kemomimirefle.net",
     "yamingfc.net",
-    "tenshi-nano.com"
+    "tenshi-nano.com",
+    "malice-kibana.com"
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
@@ -53,7 +54,8 @@ export const needKeySites = [
     "rizuna-official.com",
     "kemomimirefle.net",
     "yamingfc.net",
-    "tenshi-nano.com"
+    "tenshi-nano.com",
+    "malice-kibana.com"
 ];
 export const siteAdditionalHeaders = {
     "www.openrec.tv": {
@@ -87,6 +89,7 @@ export const minyamiVersionRequirementMap = {
     "kemomimirefle.net": "4.4.13",
     "yamingfc.net": "4.4.13",
     "tenshi-nano.com":"4.4.13",
+    "malice-kibana.com":"4.4.13",
 };
 export const statusFlags = {
     supported: 0b1,
