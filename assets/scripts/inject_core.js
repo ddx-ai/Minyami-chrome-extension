@@ -177,7 +177,8 @@
                 case "yamingfc.net":
                 case "tenshi-nano.com":
                 case "malice-kibana.com": 
-                case "nightmare-salon.com": {
+                case "nightmare-salon.com": 
+                case "hoshino-supika.com": {
                     matchurl(this, "https://hls-auth.cloud.stream.co.jp/key");
                     break;
                 }
