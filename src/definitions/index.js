@@ -32,7 +32,8 @@ export const supportedSites = [
     "yamingfc.net",
     "tenshi-nano.com",
     "malice-kibana.com",
-    "nightmare-salon.com"
+    "nightmare-salon.com",
+    "hoshino-supika.com"
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
@@ -57,7 +58,8 @@ export const needKeySites = [
     "yamingfc.net",
     "tenshi-nano.com",
     "malice-kibana.com",
-    "nightmare-salon.com"
+    "nightmare-salon.com",
+    "hoshino-supika.com"
 ];
 export const siteAdditionalHeaders = {
     "www.openrec.tv": {
@@ -93,6 +95,7 @@ export const minyamiVersionRequirementMap = {
     "tenshi-nano.com":"4.4.13",
     "malice-kibana.com":"4.4.13",
     "nightmare-salon.com":"4.4.13",
+    "hoshino-supika.com":"4.4.13",
 };
 export const statusFlags = {
     supported: 0b1,
